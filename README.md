@@ -4,8 +4,6 @@ I’m a **Frontend Developer** with a strong interest in **full-stack developmen
 
 I enjoy building **modern, responsive**, and **accessible web interfaces** with clean code and user-centered design. I'm actively expanding my backend knowledge and exploring how data can power smarter applications.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eslam-shaban-170/) 
 ---
 
 ## 💻 Tech Stack
@@ -39,12 +37,6 @@ I enjoy building **modern, responsive**, and **accessible web interfaces** with 
 ![](https://github-readme-stats.vercel.app/api?username=Eslam-Shaban&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com?user=Eslam-Shaban&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eslam-Shaban&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 📈 Profile Visits
-
-[![](https://visitcount.itsvg.in/api?id=EslamShaban&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
