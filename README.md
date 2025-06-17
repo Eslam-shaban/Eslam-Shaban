@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Eslam Shaban
 ---
-## 💫 About Me
 I’m a **Frontend Developer** with a strong interest in **full-stack development** and a growing passion for **data analytics and AI**.
 
 I enjoy building **modern, responsive**, and **accessible web interfaces** with clean code and user-centered design.While my primary expertise is in frontend technologies, I’m actively expanding my backend skills to create scalable, full-stack applications.
