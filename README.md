@@ -5,6 +5,7 @@ I’m a **Frontend Developer** with a strong interest in **full-stack developmen
 I enjoy building **modern, responsive**, and **accessible web interfaces** with clean code and user-centered design.While my primary expertise is in frontend technologies, I’m actively expanding my backend skills to create scalable, full-stack applications.
 
 I’m also exploring the world of data, from visualization tools like Power BI and Excel to Python libraries for analytics and machine learning—driven by a belief that data and AI are shaping the future of technology.
+
 ---
 
 <a href="https://my-portfolio-gamma-lyart-2uthsu8jz2.vercel.app/" target="_blank">
