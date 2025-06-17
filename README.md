@@ -1,8 +1,18 @@
 # 👋 Hi, I’m Eslam Shaban
+---
+💫 About Me
+🔭 Frontend Developer with a strong interest in full-stack development and a growing passion for data analytics and AI.
 
-I’m a **Frontend Developer** with a strong interest in **full-stack development** and a growing passion for **data analytics and AI**.
+💡 I love building modern, responsive, and accessible web interfaces with clean code and user-centered design.
 
-I enjoy building **modern, responsive**, and **accessible web interfaces** with clean code and user-centered design. I'm actively expanding my backend knowledge and exploring how data can power smarter applications.
+🧠 Currently expanding my skills in backend development, and exploring how data can drive smarter applications.
+
+⚙️ Passionate about crafting high-performing, scalable, and maintainable full-stack applications using modern tech stacks.
+
+📊 Actively learning and experimenting with data tools like Power BI, Excel, Python, and libraries for AI & ML.
+
+---
+🔗 [Visit My Portfolio](https://my-portfolio-gamma-lyart-2uthsu8jz2.vercel.app/)
 
 ---
 
