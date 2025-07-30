@@ -10,9 +10,9 @@ I’m also exploring the world of data, from visualization tools like Power BI a
 ### 👋 Hi, I'm Eslam Shaban
 
 🌍 I'm based in Cairo, Egypt  
-🖥️ See my portfolio at [my-portfolio-gamma-lyart-2uthsu8jz2.vercel.app](https://my-portfolio-gamma-lyart-2uthsu8jz2.vercel.app/)  
+🖥️ See my portfolio at [eslam-shaban-portfolio.vercel.app](https://eslam-shaban-portfolio.vercel.app/)  
 ✉️ You can contact me at eslam.shaban.dev@gmail.com  
-📄 Checkout my [Resume](https://your-resume-link.com)  
+📄 Checkout my [Resume](https://drive.google.com/file/d/1geMxDpLmenhBcJFt-RT_5Y-12shmEMER/view?usp=drive_link)  
 💼 I'm currently open to Frontend / Full-stack opportunities  
 
 ---
