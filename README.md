@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Eslam Shaban
----
+
 I’m a **Software Engineer** with a strong interest in **full-stack development** and a growing passion for **data analytics and AI**.
 
 I enjoy building **modern, responsive**, and **accessible web interfaces** with clean code and user-centered design.While my primary expertise is in frontend technologies, I’m actively expanding my backend skills to create scalable, full-stack applications.
@@ -7,11 +7,13 @@ I enjoy building **modern, responsive**, and **accessible web interfaces** with 
 I’m also exploring the world of data, from visualization tools like Power BI and Excel to Python libraries for analytics and machine learning—driven by a belief that data and AI are shaping the future of technology.
 
 ---
+### 👋 Hi, I'm Eslam Shaban
 
-<a href="https://my-portfolio-gamma-lyart-2uthsu8jz2.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
-</a>
-
+🌍 I'm based in Cairo, Egypt  
+🖥️ See my portfolio at [my-portfolio-gamma-lyart-2uthsu8jz2.vercel.app](https://my-portfolio-gamma-lyart-2uthsu8jz2.vercel.app/)  
+✉️ You can contact me at eslam.shaban.dev@gmail.com  
+📄 Checkout my [Resume](https://your-resume-link.com)  
+💼 I'm currently open to Frontend / Full-stack opportunities  
 
 ---
 
