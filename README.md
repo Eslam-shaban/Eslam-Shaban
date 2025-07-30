@@ -16,9 +16,6 @@ I’m also exploring the world of data, from visualization tools like Power BI a
 * 🔗 **LinkedIn**: [https://www.linkedin.com/in/eslam-shaban-170/](https://www.linkedin.com/in/eslam-shaban-170/)
 * 📄 **Resume**: [Resume](https://drive.google.com/file/d/1geMxDpLmenhBcJFt-RT_5Y-12shmEMER/view?usp=drive_link)  
 * 💼 **Open To**: Frontend & Full-Stack Development Opportunities
----
-
-This version keeps the URLs visible (great for copy-pasting or transparency) but formats them neatly. Let me know if you want badge-style links or icons added beside each one for a more modern aesthetic.
 
 ---
 
